@@ -1,0 +1,14 @@
+/* 10. selector de atributos */
+
+a[href="http://www.google.com"]{
+    color: green;
+}
+
+a[href$=".html"]{
+    color: red;
+}
+
+input[type="tel"]{
+    border: 2px solid blue;
+    margin-top: 1rem;
+}

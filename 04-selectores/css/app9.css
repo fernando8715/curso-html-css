@@ -1,0 +1,6 @@
+/* 9. primer elemento despues del selector */
+
+.admin div + p {
+    border: 2px solid green;
+    padding: 2rem;
+}

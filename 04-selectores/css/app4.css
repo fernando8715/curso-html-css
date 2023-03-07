@@ -1,0 +1,11 @@
+/* 4. selector de clases anidadas */
+
+.header .descripcion {
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: blue;
+}
+
+.descripcion {
+    color: green;
+}

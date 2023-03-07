@@ -1,0 +1,12 @@
+/* selector por la primera letra o primera linea */
+
+.primer-letra::first-letter {
+    color: green;
+    font-size: 10rem;
+}
+
+.primer-linea::first-line {
+    color: blue;
+    font-weight: bold;
+    font-size: 4rem;
+}

@@ -1,0 +1,8 @@
+/* 6. selector de etiqueta y clase */
+
+div.texto {
+    color: green;
+    text-transform: upperCase;
+    font-weight: bold;
+    text-decoration: underline;
+}

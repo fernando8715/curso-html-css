@@ -1,0 +1,7 @@
+/* 7. selector de 2 elementos */
+
+.texto,
+.oferta {
+    border: 1rem solid yellow;
+    padding: 2rem;
+}

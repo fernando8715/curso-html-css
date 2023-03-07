@@ -1,0 +1,12 @@
+/* 14. selctor de los elementos excepto uno o unos */
+
+/* .elementos p:not(.heading) {
+    border: 2px solid green;
+} */
+
+
+.elementos p:not(.texto):not(.oferta) {
+    border: 2px solid green;
+}
+
+

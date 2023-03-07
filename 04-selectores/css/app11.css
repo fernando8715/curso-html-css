@@ -1,0 +1,21 @@
+/* 11. primer hijo de una lista */
+
+ul li:first-child{
+    border: 2px solid red;
+}
+
+/* 12. ultimo hijo de una lista */
+
+ul li:last-child{
+    border: 2px solid green;
+}
+
+/* 13. seleccionar un elemento en especifico */
+
+ul li:nth-child(odd){
+    border: 2px solid blue;
+}
+
+ul li:nth-child(3n + 1){
+    background-color: yellow;
+}

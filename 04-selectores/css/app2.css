@@ -1,0 +1,14 @@
+/* 2. selector de clase */
+
+.codigo {
+    color: blue;
+    font-weight: bold;
+}
+
+.primer-parrafo {
+    color: red;
+    font-weight: bold;
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform: uppercase;
+}

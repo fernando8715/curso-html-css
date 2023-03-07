@@ -1,0 +1,9 @@
+.texto {
+    color: green;
+}
+
+.texto.azul {
+    color: blue;
+    text-transform: uppercase;
+}
+
