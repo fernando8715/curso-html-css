@@ -1,0 +1,34 @@
+.oferta {
+    background-color: #00446e;
+    margin: 0 auto;
+    padding: 2rem;
+    max-width: 60rem;
+    text-align: center;
+}
+
+.precio {
+    font-size: 5rem;
+    margin: 0;
+}
+
+/* resolucion de 800px hacia abajo */
+@media (max-width: 800px){
+    .oferta {
+        max-width: 50rem;
+    }
+
+    .precio {
+        font-size: 4rem;
+    }
+}
+
+/* resolucion de 600px hacia abajo */
+@media (max-width: 600px){
+     .oferta {
+        max-width: 30rem;
+    }
+
+    .precio {
+        font-size: 2rem;
+    }
+}

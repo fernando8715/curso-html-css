@@ -1,0 +1,15 @@
+@media (min-width: 600px) {
+    h2 {
+        background-color: #00460e;
+        font-size: 2.5rem;
+        max-width: 60rem;
+        margin: 0 auto
+    }
+}
+
+@media (min-width: 900px) {
+    h2 {
+        background-color: yellow;
+        color: #000;
+    }
+}

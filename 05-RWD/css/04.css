@@ -1,0 +1,19 @@
+.oferta {
+    background-color: #00466e;
+    margin: 0 auto;
+    max-width: 60rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.precio {
+    font-size: 6rem;
+    margin: 0;
+}
+
+/* aplicando la configuracion para dos tamaños */
+@media (min-width: 600px) and (max-width: 800px), (min-width:1000px){
+    .oferta {
+        background-color: yellow;
+    }
+}
